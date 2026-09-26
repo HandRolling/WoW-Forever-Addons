@@ -1,0 +1,2 @@
+# WoW-Forever-Addons
+Addons
