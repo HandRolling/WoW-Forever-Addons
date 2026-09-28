@@ -10,3 +10,4 @@
 - [Leatrix Maps](https://www.curseforge.com/wow/addons/leatrix-maps) *Mejora el mapa y añade información adicional sobre zonas y ubicaciones.*
 - [What's Training?](https://www.curseforge.com/wow/addons/whats-training) *Muestra las habilidades que puedes aprender de los instructores.*
 - [RareScanner](https://www.curseforge.com/wow/addons/rarescanner) *Detecta y avisa de mobs raros y tesoros cercanos.*
+- [Clique](https://www.curseforge.com/wow/addons/clique) *Permite lanzar hechizos sobre unidades mediante mouseover y combinaciones de ratón o teclado.*
