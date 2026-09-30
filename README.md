@@ -2,7 +2,7 @@
 
 ## Addons
 - [EllesmereUI](https://www.curseforge.com/wow/addons/ellesmereui) *Personalización completa para la UI.*
-- [RestedXP](https://github.com/RestedXP/RXPGuides/releases) *1- Instalas RestedXP en Curseforge. 2- Descargas el archivo de GitHub. 3- Pegas el archivo descargado en la carpeta Addons y reemplazas todo.*
+- [RestedXP](https://github.com/RestedXP/RXPGuides/releases) *1- Instalas RestedXP en Curseforge. 2- Descargas el .zip. 3- Pegas el archivo descargado en la carpeta Addons y reemplazas todo.*
 - [DungeonJournal](https://www.curseforge.com/wow/addons/dungeonjournal) *Información de mazmorras, incluye misiones, ubicaciones, recompensas y botín de los jefes.*
 - [Attune](https://www.curseforge.com/wow/addons/attune) *Muestra y sigue los requisitos de attunement y su progreso.*
 - [AtlasLootClassic](https://www.curseforge.com/wow/addons/atlaslootclassic-forever-era-fix) *Muestra el botín de mazmorras, raids, recetas y recompensas.*
