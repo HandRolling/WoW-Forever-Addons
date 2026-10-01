@@ -1,7 +1,5 @@
 # WoW-Forever-Addons
 
-## Addons
-
 ### Interfaz
 - [EllesmereUI](https://www.curseforge.com/wow/addons/ellesmereui) *Personalización completa para la UI.*
 
