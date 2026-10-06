@@ -1,5 +1,7 @@
 # WoW-Forever-Addons
 
+Blizzard ha implementado los addons mas importantes dentro de Forever por lo que los addons listados a continuación son opcionales para mejorar la calidad de vida y personalizacion de tu UI.
+
 ### Interfaz
 - [EllesmereUI](https://www.curseforge.com/wow/addons/ellesmereui) *Personalización completa para la UI.*
 
