@@ -19,3 +19,4 @@
 - [Clique](https://www.curseforge.com/wow/addons/clique) *Permite lanzar hechizos sobre unidades mediante mouseover y combinaciones de ratón o teclado.*
 
 ---
+
