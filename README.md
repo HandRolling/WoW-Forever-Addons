@@ -22,7 +22,7 @@
 
 ### 1. Descargar CurseForge
 [CurseForge](https://www.curseforge.com/download/app?utm_source=chatgpt.com) Tiene que ser la versión Standalone
-<img src="./Descarga CF.png" width="900">
+<img src="./Descarga CF.png" width="800">
 
 
 
@@ -33,4 +33,22 @@ Ejecutas el instalador y sigues los pasos habituales. Una vez instalado, abres C
 
 ### 3. Seleccionas World of Warcraft
 En el caso de que no aparezca puedes seleccionar en la + Scan computer for games o añadir manualmente, por defecto WoW esta en: C:\Program Files (x86)\World of Warcraft
-<img src="./Scan games.png" width="900">
+<img src="./Scan games.png" width="800">
+
+
+
+### 4. Instalación de Addons
+Si no te encuentra tu carpeta de Addons puedes buscarla automaticamente en Scan addons folder o manualmente en: C:\Program Files (x86)\World of Warcraft\_classic_beta_\Interface\AddOns
+<img src="./Opciones.png" width="800">
+
+
+Te aseguras que estas en Forever
+<img src="./Pestaña.png" width="800">
+
+
+Dentro de la pestaña Browser puedes buscar los Addons que quieras e instalarlos
+<img src="./Busqueda.png" width="800">
+
+
+Los Addons los tendrás en My Addons donde podrás actualizarlos o eliminarlos.
+<img src="./My Addons.png" width="800">
