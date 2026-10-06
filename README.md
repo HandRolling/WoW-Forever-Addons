@@ -21,7 +21,7 @@
 ---
 
 ### 1. Descargar CurseForge
-[CurseForge](https://www.curseforge.com/download/app?utm_source=chatgpt.com) Tiene que ser la versión Standalone
+[CurseForge](https://www.curseforge.com/download/app?utm_source=chatgpt.com) Seleccionas la versión Standalone
 <img src="./Descarga CF.png" width="800">
 
 
