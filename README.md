@@ -20,3 +20,13 @@
 
 ---
 
+### 1. Descargar CurseForge
+[CurseForge](https://www.curseforge.com/download/app?utm_source=chatgpt.com) Tiene que ser la versión Standalone
+<img src="./Descarga CF.png" width="900">
+
+### 2. Instalar CurseForge
+Ejecutas el instalador y sigues los pasos habituales. Una vez instalado, abres CurseForge.
+
+### 3. Seleccionas World of Warcraft
+En el caso de que no aparezca puedes seleccionar en la + Scan computer for games o añadir manualmente, por defecto WoW esta en: C:\Program Files (x86)\World of Warcraft
+<img src="./Scan.png" width="900">
