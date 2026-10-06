@@ -31,7 +31,7 @@ Ejecutas el instalador y sigues los pasos habituales. Una vez instalado, abres C
 
 
 
-### 3. Seleccionas World of Warcraft
+### 3. Seleccionar World of Warcraft
 En el caso de que no aparezca puedes seleccionar en la + Scan computer for games o añadir manualmente, por defecto WoW esta en: C:\Program Files (x86)\World of Warcraft
 <img src="./Scan games.png" width="800">
 
