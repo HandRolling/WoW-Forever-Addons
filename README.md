@@ -20,6 +20,10 @@ Blizzard ha implementado los addons mas importantes dentro de Forever por lo que
 - [RareScanner](https://www.curseforge.com/wow/addons/rarescanner) *Detecta y avisa de mobs raros y tesoros cercanos.*
 - [Clique](https://www.curseforge.com/wow/addons/clique) *Permite lanzar hechizos sobre unidades mediante mouseover y combinaciones de ratón o teclado.*
 
+### Inmersión durante el leveo
+- [Social Diary](https://www.curseforge.com/wow/addons/social-diary) *Registra tus encuentros con otros jugadores, creando un diario de aventuras, interacciones y combates PvP.*
+- [Spoken](https://www.curseforge.com/wow/addons/spoken) *Añade voces a los diálogos de misiones, conversaciones con NPC, historias de zonas y libros de WoW Forever, haciendo que el mundo sea más inmersivo. Disponible en español y requiere instalar los paquetes de audio correspondientes.*
+
 ---
 
 ### 1. Descargar CurseForge
