@@ -20,7 +20,7 @@ Blizzard ha implementado los addons mas importantes dentro de Forever por lo que
 - [RareScanner](https://www.curseforge.com/wow/addons/rarescanner) *Detecta y avisa de mobs raros y tesoros cercanos.*
 - [Clique](https://www.curseforge.com/wow/addons/clique) *Permite lanzar hechizos sobre unidades mediante mouseover y combinaciones de ratón o teclado.*
 - [Naowh Forever](https://www.curseforge.com/wow/addons/naowhforever) *Addon todo en uno que reúne herramientas para consultar equipo BiS, botín de mazmorras, talentos, profesiones, PvP y utilidades como reparación, venta de objetos basura y avisos de combate.*
-- [Tamed](https://www.curseforge.com/wow/addons/tamed) *Addon para cazadores que permite consultar qué habilidades pueden aprender las mascotas domesticables y dónde encontrar las bestias que enseñan nuevos rangos de esas habilidades. Incluye información dentro del juego y marcadores en el mapa para facilitar su búsqueda.*
+- [Tamed](https://www.curseforge.com/wow/addons/tamed) *Para cazadores que permite consultar qué habilidades pueden aprender las mascotas domesticables y dónde encontrar las bestias que enseñan nuevos rangos de esas habilidades. Incluye información dentro del juego y marcadores en el mapa para facilitar su búsqueda.*
 
 ### Inmersión durante el leveo
 - [Social Diary](https://www.curseforge.com/wow/addons/social-diary) *Registra tus encuentros con otros jugadores, creando un diario de aventuras, interacciones y combates PvP.*
