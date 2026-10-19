@@ -19,10 +19,13 @@ Blizzard ha implementado los addons mas importantes dentro de Forever por lo que
 - [What's Training?](https://www.curseforge.com/wow/addons/whats-training) *Muestra las habilidades que puedes aprender de los instructores.*
 - [RareScanner](https://www.curseforge.com/wow/addons/rarescanner) *Detecta y avisa de mobs raros y tesoros cercanos.*
 - [Clique](https://www.curseforge.com/wow/addons/clique) *Permite lanzar hechizos sobre unidades mediante mouseover y combinaciones de ratón o teclado.*
+- [Naowh Forever](https://www.curseforge.com/wow/addons/naowhforever) *Addon todo en uno que reúne herramientas para consultar equipo BiS, botín de mazmorras, talentos, profesiones, PvP y utilidades como reparación, venta de objetos basura y avisos de combate.*
+- [Tamed](https://www.curseforge.com/wow/addons/tamed) *Addon para cazadores que permite consultar qué habilidades pueden aprender las mascotas domesticables y dónde encontrar las bestias que enseñan nuevos rangos de esas habilidades. Incluye información dentro del juego y marcadores en el mapa para facilitar su búsqueda.*
 
 ### Inmersión durante el leveo
 - [Social Diary](https://www.curseforge.com/wow/addons/social-diary) *Registra tus encuentros con otros jugadores, creando un diario de aventuras, interacciones y combates PvP.*
 - [Spoken](https://www.curseforge.com/wow/addons/spoken) *Añade voces a los diálogos de misiones, conversaciones con NPC, historias de zonas y libros de WoW Forever, haciendo que el mundo sea más inmersivo. Disponible en español y requiere instalar los paquetes de audio correspondientes.*
+- [Dialogue UI](https://www.curseforge.com/wow/addons/dialogueui) *Mejora la interfaz de diálogos y misiones de WoW con una presentación más inmersiva, cámara dinámica, textos personalizables, soporte para mando y lectura de diálogos en voz alta.*
 
 ---
 
