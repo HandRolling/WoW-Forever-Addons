@@ -47,7 +47,7 @@ En el caso de que no aparezca puedes seleccionar en la + Scan computer for games
 
 
 ### 4. Instalación de Addons
-Si no te encuentra tu carpeta de Addons puedes buscarla automaticamente en Scan addons folder o manualmente en: C:\Program Files (x86)\World of Warcraft\_classic_beta_\Interface\AddOns
+Si no te encuentra tu carpeta de Addons puedes buscarla automaticamente en Scan addons folder o manualmente en: C:\Program Files (x86)\World of Warcraft\_forever_\Interface\AddOns
 <img src="./Opciones.png" width="800">
 
 
