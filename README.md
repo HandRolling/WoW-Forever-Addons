@@ -11,7 +11,7 @@ Blizzard ha implementado los addons mas importantes dentro de Forever por lo que
 ### Mazmorras/Raids
 - [DungeonJournal](https://www.curseforge.com/wow/addons/dungeonjournal) *Información de mazmorras, incluye misiones, ubicaciones, recompensas y botín de los jefes.*
 - [Attune](https://www.curseforge.com/wow/addons/attune) *Muestra y sigue los requisitos de attunement y su progreso.*
-- [AtlasLootClassic](https://www.curseforge.com/wow/addons/atlaslootclassic-forever-era-fix) *Muestra el botín de mazmorras, raids, recetas y recompensas.*
+- ~~[AtlasLootClassic](https://www.curseforge.com/wow/addons/atlaslootclassic-forever-era-fix) *Muestra el botín de mazmorras, raids, recetas y recompensas.*~~
 
 ### QoL
 - [Leatrix Plus](https://www.curseforge.com/wow/addons/leatrix-plus) *Añade numerosas mejoras y opciones de calidad de vida a la interfaz.*
