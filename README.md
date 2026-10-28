@@ -27,6 +27,9 @@ Blizzard ha implementado los addons mas importantes dentro de Forever por lo que
 - [Spoken](https://www.curseforge.com/wow/addons/spoken) *Añade voces a los diálogos de misiones, conversaciones con NPC, historias de zonas y libros de WoW Forever, haciendo que el mundo sea más inmersivo. Disponible en español y requiere instalar los paquetes de audio correspondientes.*
 - [Dialogue UI](https://www.curseforge.com/wow/addons/dialogueui) *Mejora la interfaz de diálogos y misiones de WoW con una presentación más inmersiva, cámara dinámica, textos personalizables, soporte para mando y lectura de diálogos en voz alta.*
 
+### PvP
+- [Spy](https://www.curseforge.com/wow/addons/spy-forever) *Detecta enemigos cercanos y muestra su nombre, nivel, clase y raza. Incluye una lista negra (Kill on Sight) para marcar jugadores y recibir alertas cuando aparecen, además de un registro de encuentros PvP, victorias y derrotas.*
+
 ---
 
 ### 1. Descargar CurseForge
