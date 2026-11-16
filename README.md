@@ -6,7 +6,7 @@ Blizzard ha implementado los addons mas importantes dentro de Forever por lo que
 - [EllesmereUI](https://www.curseforge.com/wow/addons/ellesmereui) *Personalización completa para la UI.*
 
 ### Leveling
-- [RestedXP/Zygor](https://www.elitepvpers.com/forum/wow-guides-templates/4792923-zygor-classic-retail-other-addons-updated.html) *1- Tienes que registrarte para poder ver los links 2-Instalas RestedXP en Curseforge. 3- Descargas el .zip. 4- Pegas el archivo descargado en la carpeta Addons y reemplazas todo.*
+- [RestedXP/Zygor](https://www.elitepvpers.com/forum/wow-guides-templates/4792923-zygor-classic-retail-other-addons-updated.html) *1- Tienes que registrarte para poder ver los links 2-Instalas RestedXP en Curseforge. 3- Descargas el .zip. 4- Pegas el archivo descargado en la carpeta Addons y reemplazas todo. Restedxp necesita archivos extra para que funcione en español. Zygor funciona en todos los idiomas.*
 
 ### Mazmorras/Raids
 - [DungeonJournal](https://www.curseforge.com/wow/addons/dungeonjournal) *Información de mazmorras, incluye misiones, ubicaciones, recompensas y botín de los jefes.*
