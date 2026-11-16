@@ -6,12 +6,12 @@ Blizzard ha implementado los addons mas importantes dentro de Forever por lo que
 - [EllesmereUI](https://www.curseforge.com/wow/addons/ellesmereui) *Personalización completa para la UI.*
 
 ### Leveling
-- [RestedXP](https://www.elitepvpers.com/forum/wow-guides-templates/4792923-zygor-classic-retail-other-addons-updated.html) *1- Tienes que registrarte para poder ver los links 2-Instalas RestedXP en Curseforge. 3- Descargas el .zip. 4- Pegas el archivo descargado en la carpeta Addons y reemplazas todo.*
+- [RestedXP/Zygor](https://www.elitepvpers.com/forum/wow-guides-templates/4792923-zygor-classic-retail-other-addons-updated.html) *1- Tienes que registrarte para poder ver los links 2-Instalas RestedXP en Curseforge. 3- Descargas el .zip. 4- Pegas el archivo descargado en la carpeta Addons y reemplazas todo.*
 
 ### Mazmorras/Raids
 - [DungeonJournal](https://www.curseforge.com/wow/addons/dungeonjournal) *Información de mazmorras, incluye misiones, ubicaciones, recompensas y botín de los jefes.*
 - [Attune](https://www.curseforge.com/wow/addons/attune) *Muestra y sigue los requisitos de attunement y su progreso.*
-- ~~[AtlasLootClassic](https://www.curseforge.com/wow/addons/atlaslootclassic-forever-era-fix) *Muestra el botín de mazmorras, raids, recetas y recompensas.*~~
+- [AtlasLoot Classic Forever](https://www.curseforge.com/wow/addons/atlasloot-forever) *Consulta el loot de mazmorras, bandas y jefes, así como las recompensas de reputaciones, PvP y profesiones.
 
 ### QoL
 - [Leatrix Plus](https://www.curseforge.com/wow/addons/leatrix-plus) *Añade numerosas mejoras y opciones de calidad de vida a la interfaz.*
@@ -21,6 +21,8 @@ Blizzard ha implementado los addons mas importantes dentro de Forever por lo que
 - [Clique](https://www.curseforge.com/wow/addons/clique) *Permite lanzar hechizos sobre unidades mediante mouseover y combinaciones de ratón o teclado.*
 - [Naowh Forever](https://www.curseforge.com/wow/addons/naowhforever) *Addon todo en uno que reúne herramientas para consultar equipo BiS, botín de mazmorras, talentos, profesiones, PvP y utilidades como reparación, venta de objetos basura y avisos de combate.*
 - [Tamed](https://www.curseforge.com/wow/addons/tamed) *Para cazadores que permite consultar qué habilidades pueden aprender las mascotas domesticables y dónde encontrar las bestias que enseñan nuevos rangos de esas habilidades. Incluye información dentro del juego y marcadores en el mapa para facilitar su búsqueda.*
+- [Layer-Swap](https://www.curseforge.com/wow/addons/layer) *Permite ver en qué layer estás y cambiar a otro con un solo clic, buscando jugadores que puedan invitarte. También permite ofrecer tu propio layer a otros jugadores para facilitar los cambios.
+- [GatherMate2](https://www.curseforge.com/wow/addons/gathermate2) *Registra y muestra en el mapa y minimapa las ubicaciones de hierbas, menas, bancos de pesca y tesoros. También permite importar una base de datos con ubicaciones ya descubiertas para facilitar la recolección. Necesitas instalar [GatherMate2 Data Wowhead classic](https://www.curseforge.com/wow/addons/gathermate2-data-wowhead-classic) e importar dentro de las opciones de GatherMate2 para que funcione.
 
 ### Inmersión durante el leveo
 - [Social Diary](https://www.curseforge.com/wow/addons/social-diary) *Registra tus encuentros con otros jugadores, creando un diario de aventuras, interacciones y combates PvP.*
