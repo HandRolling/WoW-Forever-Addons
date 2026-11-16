@@ -11,7 +11,7 @@ Blizzard ha implementado los addons mas importantes dentro de Forever por lo que
 ### Mazmorras/Raids
 - [DungeonJournal](https://www.curseforge.com/wow/addons/dungeonjournal) *Información de mazmorras, incluye misiones, ubicaciones, recompensas y botín de los jefes.*
 - [Attune](https://www.curseforge.com/wow/addons/attune) *Muestra y sigue los requisitos de attunement y su progreso.*
-- [AtlasLoot Classic Forever](https://www.curseforge.com/wow/addons/atlasloot-forever) *Consulta el loot de mazmorras, bandas y jefes, así como las recompensas de reputaciones, PvP y profesiones.
+- [AtlasLoot Classic Forever](https://www.curseforge.com/wow/addons/atlasloot-forever) *Consulta el loot de mazmorras, bandas y jefes, así como las recompensas de reputaciones, PvP y profesiones.*
 
 ### QoL
 - [Leatrix Plus](https://www.curseforge.com/wow/addons/leatrix-plus) *Añade numerosas mejoras y opciones de calidad de vida a la interfaz.*
@@ -21,8 +21,8 @@ Blizzard ha implementado los addons mas importantes dentro de Forever por lo que
 - [Clique](https://www.curseforge.com/wow/addons/clique) *Permite lanzar hechizos sobre unidades mediante mouseover y combinaciones de ratón o teclado.*
 - [Naowh Forever](https://www.curseforge.com/wow/addons/naowhforever) *Addon todo en uno que reúne herramientas para consultar equipo BiS, botín de mazmorras, talentos, profesiones, PvP y utilidades como reparación, venta de objetos basura y avisos de combate.*
 - [Tamed](https://www.curseforge.com/wow/addons/tamed) *Para cazadores que permite consultar qué habilidades pueden aprender las mascotas domesticables y dónde encontrar las bestias que enseñan nuevos rangos de esas habilidades. Incluye información dentro del juego y marcadores en el mapa para facilitar su búsqueda.*
-- [Layer-Swap](https://www.curseforge.com/wow/addons/layer) *Permite ver en qué layer estás y cambiar a otro con un solo clic, buscando jugadores que puedan invitarte. También permite ofrecer tu propio layer a otros jugadores para facilitar los cambios.
-- [GatherMate2](https://www.curseforge.com/wow/addons/gathermate2) *Registra y muestra en el mapa y minimapa las ubicaciones de hierbas, menas, bancos de pesca y tesoros. También permite importar una base de datos con ubicaciones ya descubiertas para facilitar la recolección. Necesitas instalar [GatherMate2 Data Wowhead classic](https://www.curseforge.com/wow/addons/gathermate2-data-wowhead-classic) e importar dentro de las opciones de GatherMate2 para que funcione.
+- [Layer-Swap](https://www.curseforge.com/wow/addons/layer) *Permite ver en qué layer estás y cambiar a otro con un solo clic, buscando jugadores que puedan invitarte. También permite ofrecer tu propio layer a otros jugadores para facilitar los cambios.*
+- [GatherMate2](https://www.curseforge.com/wow/addons/gathermate2) *Registra y muestra en el mapa y minimapa las ubicaciones de hierbas, menas, bancos de pesca y tesoros. También permite importar una base de datos con ubicaciones ya descubiertas para facilitar la recolección. Necesitas instalar [GatherMate2 Data Wowhead classic](https://www.curseforge.com/wow/addons/gathermate2-data-wowhead-classic) e importar dentro de las opciones de GatherMate2 para que funcione.*
 
 ### Inmersión durante el leveo
 - [Social Diary](https://www.curseforge.com/wow/addons/social-diary) *Registra tus encuentros con otros jugadores, creando un diario de aventuras, interacciones y combates PvP.*
